@@ -2,3 +2,5 @@ I am using github for the first time.
 so i used this repository for the practice purpose.
 
 This is a 2nd commit.
+
+This is a 3rd commit.
